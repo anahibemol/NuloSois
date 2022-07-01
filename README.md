@@ -16,8 +16,8 @@ Novice Developer studying programming and creating programs, check the pinned re
 ## Contact:
 * <img src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-4-1.png" alt="Discord" width="25"/> [@Nulo//Sois#2953](https://discordapp.com/channels/@me/278186795618009090/)
 * <img src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-3.png" alt="Twitter" width ="25"/> [@Sants_3009](https://twitter.com/Sants_3009)
-* <img src="https://logodownload.org/wp-content/uploads/2014/10/youtube-logo-5-2.png" alt = "Youtube" width = "25"/> [NuloSois](https://www.youtube.com/channel/UCcO0ManRRgsbN5rWBgnztHA)
-
+* <img src="https://logodownload.org/wp-content/uploads/2014/10/youtube-logo-5-2.png" alt = "Youtube" width = "30"/> [NuloSois](https://www.youtube.com/channel/UCcO0ManRRgsbN5rWBgnztHA)
+* <img src="https://logodownload.org/wp-content/uploads/2018/03/gmail-logo-16.png" alt="E-Mail" width ="30"/> [NuloSois](nulosoisdavi@gmail.com)
 
 
 
