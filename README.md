@@ -1,6 +1,6 @@
 ### Howdy!
 
-Novice Developer studying programming and creating programs, check the pinned repos to see what i've been proud to work with.  
+Novice Developer studying programming and creating programs, check the pinned repos to see what I have been proud to work with.  
 
 
 
