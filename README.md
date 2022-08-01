@@ -11,6 +11,7 @@ Novice Developer studying programming and creating programs, check the pinned re
     
 * Studying <img src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-devextreme-multi-purpose-controls-html-javascript-3.png" alt = "JS HTML CSS" width="100" height="40">
 
+* For my references, check a future repository where i'll put my recomendations and references, be it books, docs or videos.
 
 
 ## Contact:
