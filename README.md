@@ -1,4 +1,4 @@
-### Howdy!
+### Hey Ya!
 
 Novice Developer studying programming and creating programs, check the pinned repos to see what I have been proud to work with.  
 
